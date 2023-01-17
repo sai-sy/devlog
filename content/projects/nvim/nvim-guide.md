@@ -6,3 +6,16 @@ projects:
 - nvim
 ---
 
+# Vim Basics
+Close the buffer
+```
+:q
+```
+Exit Vim without Saving the File Your On
+```
+:q!
+```
+Write the File
+```
+:w
+```
