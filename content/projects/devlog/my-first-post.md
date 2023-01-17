@@ -2,6 +2,9 @@
 title: "My First Post"
 date: 2023-01-12T19:46:04-05:00
 draft: false
+project_url: https://github.com/sai-sy/devlog
+projects:
+- devlog
 ---
 # My First Post
 This is it. This is my first post for my first blog in my first devlog. I'll be building a hugo blog to hold my devlogs for all my projects, beginning with this devlog site itself. I've installed a theme that's simple and pretty and seems professional enough. I wanna park this site at /devlog. I guess this is what its like.  

@@ -1,10 +1,10 @@
-baseURL = 'http://saihaansyed.com/devlog'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'The Big Sigh Devlog'
 theme = 'poison'
 
 [params] 
-    brand = "Poison"                    # name of your site - appears in the sidebar
+    brand = "SighLog"                    # name of your site - appears in the sidebar
     # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
     description = "A place for me to log my journey in the never ending array of projects a CS kid needs to partake in"
 
@@ -16,12 +16,15 @@ theme = 'poison'
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
-        {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+        {Name = "Projects", URL = "/projects/", Pre = "Recent", HasChildren = true, Limit = 5},
+        {Name = "Project", URL = "/project/", Pre = "Recent", HasChildren = true, Limit = 5},
+        {Name = "Devlog", URL = "/posts/devlog", HasChildren = true},
+	    {Name = "Nvim", URL = "/posts/nvim/", HasChildren = true},
 ]
 
     # Links to your socials.  Delete any you don't need/use. 
-    github_url = "https://github.com"
-    linkedin_url = "https://linkedin.com"
+    github_url = "https://github.com/sai-sy"
+    linkedin_url = "https://www.linkedin.com/in/saisyed/"
     twitter_url = "https://twitter.com"
     discord_url = "https://discord.com"
     youtube_url = "https://youtube.com"
@@ -57,3 +60,4 @@ theme = 'poison'
 [taxonomies]
     series = 'series'
     tags = 'tags'
+    project = 'projects'

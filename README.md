@@ -6,24 +6,16 @@ I begin with with this README, a ironic expososition for meta ironic project (no
   
   
 enjoy.
-
-
-
-
-
-
-
-
 # Hugo Devlog Guide
 # Usage
 ### Spool up server
 
-#### **./project/quickstart**
+#### **`./project/quickstart`**
 ```bash
 $ hugo server
 ```
 ### Create New Post
-#### **./project/quickstart**
+#### **`./project/quickstart`**
 ```bash
 $ hugo new post projectName/postName
 ```
