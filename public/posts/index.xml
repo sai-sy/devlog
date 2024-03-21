@@ -6,8 +6,15 @@
     <description>Recent content in Posts on SaiLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 15:49:13 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 16:36:40 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog Projects</title>
+      <link>http://localhost:1313/posts/devlog-projects/</link>
+      <pubDate>Thu, 21 Mar 2024 16:36:40 -0400</pubDate>
+      <guid>http://localhost:1313/posts/devlog-projects/</guid>
+      <description>This theme auto generates pages and subpages and directories to handle the menu items for tags and categories. I tried used categories and changing the front end to be projets, but the auto generation keeps overwrting what I do. This is annoying. How do I make the autogeneration conform to my new projets folder or stop this overwrite god</description>
+    </item>
     <item>
       <title>Devlog Hosting</title>
       <link>http://localhost:1313/posts/devlog-hosting/</link>
