@@ -6,8 +6,17 @@
     <description>Recent content on SaiLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 13:46:44 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 15:49:13 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog Hosting</title>
+      <link>http://localhost:1313/posts/devlog-hosting/</link>
+      <pubDate>Thu, 21 Mar 2024 15:49:13 -0400</pubDate>
+      <guid>http://localhost:1313/posts/devlog-hosting/</guid>
+      <description>Well I don&amp;rsquo;t remember where the old project was hosted, but let&amp;rsquo;s figure out where to host this one, and hopefully get some CI going so keeping this up-to-date isn&amp;rsquo;t a pain.
+Github I got this git repo pushed to github.com/sai-sy/devlog so we&amp;rsquo;re good to go
+Cloudflare I got a Cloudflare page up, now I need to make sure the CI is working. I think we have lift off for the devlog though</description>
+    </item>
     <item>
       <title>Breakout Init</title>
       <link>http://localhost:1313/posts/breakout-init/</link>

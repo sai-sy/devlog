@@ -21,3 +21,9 @@ params:
   homeInfoParams:
     Title: Hi there 
     Content: A place to express my frustration, the life of a dev
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/sai-sy"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/saisyed/"
