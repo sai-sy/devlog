@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Golang on SaiLog</title>
+    <link>http://localhost:1313/tags/golang/</link>
+    <description>Recent content in Golang on SaiLog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Mar 2024 16:41:21 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Golang app using REACT</title>
+      <link>http://localhost:1313/posts/chatappreactgo/</link>
+      <pubDate>Thu, 21 Mar 2024 16:41:21 -0400</pubDate>
+      <guid>http://localhost:1313/posts/chatappreactgo/</guid>
+      <description>I want to build NESRM using something other than javascript as the router. I don&amp;rsquo;t like the file systme router in NextJS and I need speeds closer to Golang or Rust. BUT I see very poor resources in using react as it was meant to be used: a FE framework for an MPA with some other backend
+I&amp;rsquo;m going to try to get some experience with this using this tutorial on how to build a chat appliation using go and reactJS.</description>
+    </item>
+  </channel>
+</rss>

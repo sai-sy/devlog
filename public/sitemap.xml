@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/chatappreactgo/</loc>
+    <lastmod>2024-03-21T16:41:21-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/golang/</loc>
+    <lastmod>2024-03-21T16:41:21-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-21T16:41:21-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/react/</loc>
+    <lastmod>2024-03-21T16:41:21-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-21T16:41:21-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-21T16:41:21-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-03-21T16:36:40-04:00</lastmod>
   </url><url>
@@ -12,15 +30,6 @@
     <lastmod>2024-03-21T16:36:40-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/devlog-projects/</loc>
-    <lastmod>2024-03-21T16:36:40-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-03-21T16:36:40-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-21T16:36:40-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-03-21T16:36:40-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/devlog-hosting/</loc>
