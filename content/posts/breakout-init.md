@@ -2,7 +2,7 @@
 title = 'Breakout Init'
 date = 2024-03-21T13:46:44-04:00
 draft = false
-projects = ["breakout"]
+categories = ["breakout"]
 tags = ["opengl", "c++"]
 +++
 

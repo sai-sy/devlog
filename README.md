@@ -18,4 +18,7 @@ hugo server
 ```bash
 hugo new content posts/name.md
 ```
+### System Guide Notes
+#### Categories vs Projects
+The backend of this system uses categories as the folder builder is automatic, and yet the front end will display categories as projects. Semantic preference. Please keep this mind. Any backend process should refer to categories not projects.
 

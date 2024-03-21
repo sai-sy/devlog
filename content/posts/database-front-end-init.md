@@ -3,7 +3,7 @@ title = 'Database Front End Init'
 date = 2024-03-21T14:15:03-04:00
 draft = true
 tags = ["nesrm","python","flask","database","postgresql"]
-projects = ["nesrm","nesrmfe"]
+categories = ["nesrm","nesrmfe"]
 +++
 # First Step for the "Never Ever Stable" Relatinship Manager
 NESRM will hopefully be a tool for me to manage the thousands of contacts I've built over the course of my campaigning work. Managing voter history, residence change, deceased parties, etc... has become a hassle. So I plan to do something about it. This is the front end preview for the database

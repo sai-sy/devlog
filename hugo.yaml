@@ -6,17 +6,18 @@ theme: PaperMod
 
 menu:
   main:
-    - identifier: projects
+    - identifier: categories
       name: Projects
-      url: projects/
+      url: categories/
       weight: 5
     - identifier: tags
       name: Tags
       url: tags/
-      weight: 5
+      weight: 10
 
 
 params:
+  showBreadCrumbs: true
   defaultTheme: light
   homeInfoParams:
     Title: Hi there 

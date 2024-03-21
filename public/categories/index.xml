@@ -6,6 +6,21 @@
     <description>Recent content in Categories on SaiLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 21 Mar 2024 15:49:13 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog</title>
+      <link>http://localhost:1313/categories/devlog/</link>
+      <pubDate>Thu, 21 Mar 2024 15:49:13 -0400</pubDate>
+      <guid>http://localhost:1313/categories/devlog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Breakout</title>
+      <link>http://localhost:1313/categories/breakout/</link>
+      <pubDate>Thu, 21 Mar 2024 13:46:44 -0400</pubDate>
+      <guid>http://localhost:1313/categories/breakout/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
