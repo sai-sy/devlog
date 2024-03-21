@@ -18,6 +18,7 @@ menu:
 
 params:
   showBreadCrumbs: true
+  ShowCodeCopyButtons: true
   defaultTheme: light
   homeInfoParams:
     Title: Hi there 
