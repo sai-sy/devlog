@@ -1,0 +1,23 @@
+baseURL: https://devlog.saiscripts.com/
+languageCode: en-us
+title: SaiLog 
+theme: PaperMod
+
+
+menu:
+  main:
+    - identifier: projects
+      name: Projects
+      url: projects/
+      weight: 5
+    - identifier: tags
+      name: Tags
+      url: tags/
+      weight: 5
+
+
+params:
+  defaultTheme: light
+  homeInfoParams:
+    Title: Hi there 
+    Content: A place to express my frustration, the life of a dev
