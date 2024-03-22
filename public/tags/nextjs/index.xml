@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Golang on SaiLog</title>
-    <link>http://localhost:1313/tags/golang/</link>
-    <description>Recent content in Golang on SaiLog</description>
+    <title>Nextjs on SaiLog</title>
+    <link>http://localhost:1313/tags/nextjs/</link>
+    <description>Recent content in Nextjs on SaiLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Mar 2024 00:32:22 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nextjs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NESRM Init</title>
       <link>http://localhost:1313/posts/nesrm-init/</link>

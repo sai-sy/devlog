@@ -6,8 +6,15 @@
     <description>Recent content in Categories on SaiLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 16:36:40 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 00:32:22 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nesrm</title>
+      <link>http://localhost:1313/categories/nesrm/</link>
+      <pubDate>Fri, 22 Mar 2024 00:32:22 -0400</pubDate>
+      <guid>http://localhost:1313/categories/nesrm/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Devlog</title>
       <link>http://localhost:1313/categories/devlog/</link>
